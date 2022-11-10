@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.codein.pro](https://www.codein.pro)
 
-- 💬 Ask me about **Cool**
-
 - 📄 Know about my experiences [www.instagram.com/i.frankgaming](www.instagram.com/i.frankgaming)
 
 - ⚡ Fun fact **Chill Person**
