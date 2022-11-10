@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frank-infinity&label=Profile%20views&color=0e75b6&style=flat" alt="frank-infinity" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frank-infinity" alt="frank-infinity" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.codein.pro](https://www.codein.pro)
 
 - 💬 Ask me about **Cool**
@@ -15,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/www.codein.pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="www.codein.pro" height="30" width="40" /></a>
 <a href="https://instagram.com/i.frankgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.frankgaming" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/frank gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frank gaming" height="30" width="40" /></a>
 <a href="https://discord.gg/6hNjCPkdzb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6hNjCPkdzb" height="30" width="40" /></a>
